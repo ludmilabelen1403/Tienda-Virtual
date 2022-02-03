@@ -1,0 +1,25 @@
+.contactos{
+    text-align: center;
+   
+}
+.contact{
+    background-color: #f8abcb;
+}
+.contactos img{
+    margin-top:35px;
+width: 35px;
+height: 35px;
+}
+h1{
+    text-align: center;
+    background-color : #f38cb7;
+    font-size: 45px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Raleway', sans-serif;
+}
+.atras{
+width:30px ;
+height: 30px;
+border-radius: 2em;
+text-align: center;
+}

@@ -1,0 +1,27 @@
+.sucursales{
+    background-color: #f8abcb;
+}
+h1 {
+    text-align: center;
+    background-color : #f38cb7;
+    font-size: 45px;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Raleway', sans-serif;
+}
+.sucursales{
+text-align: center;
+}
+.sucursales>p{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+.atras{
+width:30px ;
+height: 30px;
+border-radius: 2em;
+}
